@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #efefef;
+    font-family: sans-serif;
+    background: url(linux-ubunut-gnome-3j-1920x1080.jpg) no-repeat;
+    background-size: cover;
+
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+    color: black;
+    font-family: valorant;
+
+}
+.contact-box{
+width: 500px;
+background-color: #fff;
+box-shadow: 0 0 20px 0 #999;
+top: 50%;
+left: 50%;
+transform: translate(-50%,-50%);
+position: absolute;
+border-radius: 10px;
+}
+form{
+    margin: 35px;;
+}
+.input-filed{
+width: 400px;
+height: 40px;
+margin-top: 20px;
+padding-left: 10px;
+padding-right: 10px;
+border: 1px solid #999;
+border-radius: 14px;
+outline:none;
+
+
+
+}
+
+.textarea-filed{
+    height: 150px;
+    padding-top: 10px;
+}
+
+.btn{
+    border-radius: 20px;
+    color: white;
+    margin-top: 18px;
+    padding: 10px;
+    background-color:#2ea2e5;
+    font-size: 12px;
+    border: none;
+    cursor: pointer;
+}
+
+
